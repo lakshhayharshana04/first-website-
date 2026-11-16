@@ -2,11 +2,6 @@
 
 <html lang="en">
 <head>
-
-    < style >
-  html {
-  scroll-behavior: smooth;
-  }
 </head>
 <body>
 	<h2>PRALAKSH <kbd> ( THE PHARMACEUTICAL COMPANY ) </kbd></h2>
