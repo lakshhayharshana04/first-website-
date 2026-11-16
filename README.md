@@ -25,6 +25,7 @@ PRALAKSH is an emerging skincare venture focused on exploring the potential of n
   <pre><a
  href = "mailto:bgmicreator817@gmail.com">For Mail</a></pre>
   
-<a href = "tel:+919759237026">Contact us</a></pre>
+<pre><a 
+href = "tel:+919759237026">Contact us</a></pre>
 </body>
 </htm
