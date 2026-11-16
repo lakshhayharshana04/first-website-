@@ -20,7 +20,7 @@
 PRALAKSH is an emerging skincare venture focused on exploring the potential of nature-inspired ingredients in everyday skincare. Our vision is to develop thoughtful, affordable, and effective skincare solutions that combine simplicity, innovation, and quality. We aim to build products that encourage a more conscious approach to skincare while continuously learning, researching, and improving.
     </p>
 
-<pre><a target = "_blank " href "https://www.instagram.com/lakshhay.archive/"> INSTAGRAM PAGE  </a>
+<pre> <a href = "https://www.instagram.com/lakshhay.archive/"> INSTAGRAM PAGE  </a>
   
   <a href = " mail to:bgmicreator817@gmail.com"> For Mail </a>
   
