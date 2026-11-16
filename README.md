@@ -22,7 +22,7 @@ PRALAKSH is an emerging skincare venture focused on exploring the potential of n
 
 <pre> <a href = "https://www.instagram.com/lakshhay.archive/"> INSTAGRAM PAGE  </a>
   
-  <a href = " mail to:bgmicreator817@gmail.com"> For Mail </a>
+  <a href = "mail to:bgmicreator817@gmail.com"> For Mail </a>
   
 <a href = "tel: +919759237026"> Contact us </a></pre>
 </body>
