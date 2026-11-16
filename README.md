@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h2>PRALAKSH <kbd> ( THE PHARMACEUTICAL COMPANY ) </kbd></h2>
-  <br /> <h2> Founder lakshay  </h2>
+  <br />  <h2> Founder lakshay  </h2>
   <hr />
   <br /> <h2> Co founder prashant </h2>
   <hr />
